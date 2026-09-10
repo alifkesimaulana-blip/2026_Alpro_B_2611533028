@@ -1,0 +1,10 @@
+nama = input("Masukkan Nama Mahasiswa: ")
+nim = input("Masukkan NIM: ")
+jurusan = input("Masukkan jurusan: ")
+semester = input("Masukkan semester: ")
+
+print("\n=== DATA MAHASISWA ===")
+print("Nama     :", nama)
+print("NIM      :", nim)
+print("Jurusan  :", jurusan)
+print("Semester :", semester)
