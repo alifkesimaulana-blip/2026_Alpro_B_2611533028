@@ -25,4 +25,4 @@ for i in range(len(prices)):
     prices[i] = prices[i] + 1000
 
 print("Normal:", prices)
-print("Sale:", sale_prices)
+print("Sale:", sale_prices) 
